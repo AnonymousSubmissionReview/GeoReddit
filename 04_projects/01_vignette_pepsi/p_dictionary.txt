@@ -1,0 +1,8 @@
+(?i)(?:^|[^A-Za-z])Pepsi(?:s|[^\w\s]\S*)?\b,Pepsi
+(?i)(?:^|[^A-Za-z])Pepis(?:s|[^\w\s]\S*)?\b,Pepis
+(?i)(?:^|[^A-Za-z])Pepsie(?:s|[^\w\s]\S*)?\b,Pepsie
+(?i)(?:^|[^A-Za-z])Pepsee(?:s|[^\w\s]\S*)?\b,Pepsee
+(?i)(?:^|[^A-Za-z])Pesi(?:s|[^\w\s]\S*)?\b,Pesi
+(?i)(?:^|[^A-Za-z])Pepsy(?:s|[^\w\s]\S*)?\b,Pepsy
+(?i)(?:^|[^A-Za-z])Peppsi(?:s|[^\w\s]\S*)?\b,Peppsi
+(?i)(?:^|[^A-Za-z])Peppsy(?:s|[^\w\s]\S*)?\b,Peppsy
